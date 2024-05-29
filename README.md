@@ -9,7 +9,7 @@ Avalanche Lending - (https://testnet.snowtrace.io/address/0xf25B0cBCA90Ac97e3037
 
 ProfileNFTContract - https://testnet.snowtrace.io/address/0x11d839AcBe82440228F0Cd14922A3092f7CaeaC7
 
-## Deployed on Polygon CCIP
+## Deployed on Polygon Amoy CCIP
 
 Polygon Lending - https://www.oklink.com/amoy/address/0x42fc1d53ecf8b4c46989da0d44f07490668338c8
 
@@ -67,3 +67,27 @@ npx hardhat compile
 npx hardhat setup-nft-contract --network fuji
 npx hardhat setup-lending-contract --network fuji
 ```
+
+
+## VRF on Fuji C Chain 
+subscription ID : 2808 or 2809 or 2810
+contract address : 0xFB94b68c174d3e9fa739029fc244bBD9297E819D - 
+https://testnet.snowtrace.io/address/0xFB94b68c174d3e9fa739029fc244bBD9297E819D
+
+Consumer Transaction: https://testnet.snowtrace.io/tx/0x05a135f20151b6ac60ad8f859d0f86fb483f05b589355c269dfe777c244d3a95
+
+## VRF on Polygon Amoy Testnet 
+subscription ID : 15 and 16
+
+contract address - 0x5E4e5347eB417982375Ef9BDe0B77F4322FCF79F 
+https://www.oklink.com/amoy/address/0x5e4e5347eb417982375ef9bde0b77f4322fcf79f
+
+## Roulette.sol on Polygon Amoy
+contract address : 0xfBeFdC343861EDc521dD2512B4B64B33bB663E4d
+
+https://www.oklink.com/amoy/address/0xfbefdc343861edc521dd2512b4b64b33bb663e4d
+
+## Roulette.sol on Fiji C chain
+contract address : 0xf9b55e22Eaa6A834a1De0bAAb69C9aCD52d36995
+
+https://testnet.snowtrace.io/address/0xa6D6f4556B022c0C7051d62E071c0ACecE5a1228?q=0xf9b55e22Eaa6A834a1De0bAAb69C9aCD52d36995
